@@ -1,5 +1,8 @@
 # Pasteles a domicilio
 ## Aplicación para ordenar pasteles más facil 
+
+![pastel](/Pastel.png "Texto para mostrar en caso de que no cargue la imagen")
+
 1.- ¿Cuál es el objetivo del software?
 2.- ¿ Que problema o necesidad pretende resolver?
 3.-¿Cual es el publico objetivo del software?
